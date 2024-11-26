@@ -40,7 +40,7 @@ Tailored Chatbot for Hostel Booking System is a project designed to integrate a 
 #### Output2 - Name of the output
 ![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
 
-Detection Accuracy: 96.7%
+Detection Accuracy: 93.7%
 Note: These metrics can be customized based on your actual performance evaluations.
 
 
